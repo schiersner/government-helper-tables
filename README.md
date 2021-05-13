@@ -5,8 +5,8 @@ Hilfstabellen (csv, sql) zur öffentlichen Verwaltung
 
 # Bundesländer :de:
 Die deutschen Bundesländer nach dem Gemeindeverzeichnis des Statistischen Bundesamtes. (List of the 16 Federal States of Germany)
-- [tbl_Bundeslaender.md](tabellen/tbl_Bundeslaender.csv)
-- [tbl_Bundeslaender.md](tabellen/tbl_Bundeslaender.md)
+- [tbl_Bundeslaender.md](tables/tbl_Bundeslaender.csv)
+- [tbl_Bundeslaender.md](tables/tbl_Bundeslaender.md)
 
 ## Basierend auf 
 - [https://www.xrepository.de/ Deeplink](https://www.xrepository.de/details:urn:de:bund:destatis:bevoelkerungsstatistik:schluessel:bundesland)
