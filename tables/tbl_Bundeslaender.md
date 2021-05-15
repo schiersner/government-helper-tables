@@ -1,5 +1,7 @@
 # tbl_Bundesländer.md
 
+**Die deutschen Bundesländer nach dem Gemeindeverzeichnis des Statistischen Bundesamtes. (List of the 16 Federal States of Germany.)**
+
 - [Basierend auf](#basierend-auf)
 - [Download auch als](#download-auch-als)
 - [Datenlizenz Deutschland – Zero – Version 2.0](/LICENSE.md)
