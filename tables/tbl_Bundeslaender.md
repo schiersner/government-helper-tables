@@ -18,3 +18,12 @@
 | 14|SN|14|Sachsen|Saxony|http://dcat-ap.de/def/politicalGeocoding/stateKey/14
 | 15|ST|15|Sachsen-Anhalt|Saxony-Anhalt|http://dcat-ap.de/def/politicalGeocoding/stateKey/15
 | 16|TH|16|Thüringen|Thuringia|http://dcat-ap.de/def/politicalGeocoding/stateKey/16
+
+## Basierend auf 
+- [https://www.xrepository.de/ Deeplink](https://www.xrepository.de/details:urn:de:bund:destatis:bevoelkerungsstatistik:schluessel:bundesland)
+- https://www.dcat-ap.de/def/politicalGeocoding/stateKey/
+- https://www.bundesrat.de/EN/organisation-en/laender-en/laender-en-node.html
+
+## Download auch als
+- [tbl_Bundeslaender.csv](tbl_Bundeslaender.csv)
+
