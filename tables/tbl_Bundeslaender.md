@@ -1,5 +1,10 @@
 # tbl_Bundesländer.md
 
+- [Basierend auf](#basierend-auf)
+- [Download auch als](#download-auch-als)
+- [Datenlizenz Deutschland – Zero – Version 2.0](/LICENSE.md)
+
+
 | ID | Kürzel | Schlüssel |Name_DE | Name_EN | URI  |
 --: | -- | -- | ------------- | --------------- | ---------------------------------------------------|
 | 1|SH|01|Schleswig-Holstein|Schleswig-Holstein|http://dcat-ap.de/def/politicalGeocoding/stateKey/01
