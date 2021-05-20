@@ -8,3 +8,9 @@ Die deutschen Bundesländer nach dem Gemeindeverzeichnis des Statistischen Bunde
 - [tbl_Bundeslaender.md](tables/tbl_Bundeslaender.md) mit Erläuterungen
 - [tbl_Bundeslaender.csv](tables/tbl_Bundeslaender.csv)
 
+
+# Bundesministerien :de:
+Die Bundesministerien sortiert nach der protokollarischen Reihenfolge. (Federal Ministries of Germany, 2017 - 2021)
+- [tbl_Bundesministerien_2017-2021.md](tables/tbl_Bundesministerien_2017-2021.md) mit Erläuterungen
+- [tbl_Bundesministerien_2017-2021.csv](tables/tbl_Bundesministerien_2017-2021.csv)
+
