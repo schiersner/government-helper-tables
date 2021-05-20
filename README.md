@@ -1,5 +1,5 @@
 # government-helper-tables
-Hilfstabellen (csv, sql) zur öffentlichen Verwaltung
+Hilfstabellen (csv, md) zur öffentlichen Verwaltung
 
 - [Alle Tabellen](https://github.com/schiersner/government-helper-tables/blob/main/tables/)
 
