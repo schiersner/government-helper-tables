@@ -29,3 +29,4 @@
 
 ## Download auch als
 - [tbl_Bundesministerien_2017-2021.csv](tbl_Bundesministerien_2017-2021.csv)
+- [tbl_Bundesministerien_2017-2021.sql](tbl_Bundesministerien_2017-2021.sql)
