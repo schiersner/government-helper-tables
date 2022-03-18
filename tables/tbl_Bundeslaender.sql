@@ -34,4 +34,4 @@ INSERT INTO  bundeslaender("id","abbr","state_key","name_de","name_en","uri")
 ("13","MV","13","Mecklenburg-Vorpommern","Mecklenburg-Vorpommern","http://dcat-ap.de/def/politicalGeocoding/stateKey/13"), 
 ("14","SN","14","Sachsen","Saxony","http://dcat-ap.de/def/politicalGeocoding/stateKey/14"), 
 ("15","ST","15","Sachsen-Anhalt","Saxony-Anhalt","http://dcat-ap.de/def/politicalGeocoding/stateKey/15"), 
-("16","TH","16","Thüringen","Thuringia","http://dcat-ap.de/def/politicalGeocoding/stateKey/16")
+("16","TH","16","Thüringen","Thuringia","http://dcat-ap.de/def/politicalGeocoding/stateKey/16");
