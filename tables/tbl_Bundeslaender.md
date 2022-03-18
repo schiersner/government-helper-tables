@@ -33,4 +33,5 @@
 
 ## Download auch als
 - [tbl_Bundeslaender.csv](tbl_Bundeslaender.csv)
+- [tbl_Bundeslaender.sql](tbl_Bundeslaender.sql)
 
