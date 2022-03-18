@@ -1,5 +1,5 @@
 # government-helper-tables
-Hilfstabellen (csv, md) zur öffentlichen Verwaltung
+Hilfstabellen (csv, md, sql) zur öffentlichen Verwaltung
 
 - [Alle Tabellen](https://github.com/schiersner/government-helper-tables/blob/main/tables/)
 
@@ -7,6 +7,7 @@ Hilfstabellen (csv, md) zur öffentlichen Verwaltung
 Die deutschen Bundesländer nach dem Gemeindeverzeichnis des Statistischen Bundesamtes. (List of the 16 Federal States of Germany)
 - [tbl_Bundeslaender.md](tables/tbl_Bundeslaender.md) mit Erläuterungen
 - [tbl_Bundeslaender.csv](tables/tbl_Bundeslaender.csv)
+- [tbl_Bundeslaender.sql](tables/tbl_Bundeslaender.sql)
 
 
 # Bundesministerien :de:
