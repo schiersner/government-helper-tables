@@ -13,7 +13,7 @@ CREATE TABLE bundeslaender (
     state_key   VARCHAR(2)  NOT NULL,  -- official order, leading 0 when under 10
     name_de     VARCHAR(26) NOT NULL,  -- name in German
     name_en     VARCHAR(26) NOT NULL,  -- name in English
-	  uri         VARCHAR(60) NOT NULL,  -- open data uri
+    uri         VARCHAR(60) NOT NULL,  -- open data uri
 PRIMARY KEY (id)
 );
 
