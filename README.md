@@ -20,3 +20,5 @@ Die Bundesministerien sortiert nach der protokollarischen Reihenfolge. (Federal 
 ## Bundesministerien 2021 - 2025
 Die Bundesministerien sortiert nach der protokollarischen Reihenfolge. (Federal Ministries of Germany, 2021 - 2025)
 - [tbl_Bundesministerien_2021-2025.md](tables/tbl_Bundesministerien_2021-2025.md) mit Erläuterungen
+- [tbl_Bundesministerien_2021-2025.csv](tables/tbl_Bundesministerien_2021-2025.csv)
+- [tbl_Bundesministerien_2021-2025.sql](tables/tbl_Bundesministerien_2021-2025.sql) 
