@@ -8,7 +8,7 @@
   Date of file: 2022-02-17
 */
 
-CREATE TABLE bundesministerien (
+CREATE TABLE bundesministerien2017 (
     id            INT(2)      NOT NULL,  -- protocol order
     name_de       VARCHAR(80) NOT NULL,  -- name in German
     abbr          VARCHAR(2)  NOT NULL,  -- official German abbreviation
@@ -17,7 +17,7 @@ CREATE TABLE bundesministerien (
 PRIMARY KEY (id)
 );
 
-INSERT INTO  bundesministerien("id","name_de","abbr","finance_key","name_en")
+INSERT INTO  bundesministerien2017("id","name_de","abbr","finance_key","name_en")
      VALUES 
 ("1","Bundesministerium der Finanzen","BMF","08","Federal Ministry of Finance"),
 ("2","Bundesministerium des Innern, für Bau und Heimat","BMI","06","Federal Ministry of the Interior, Building and Community"),
