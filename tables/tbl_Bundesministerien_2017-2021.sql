@@ -12,8 +12,8 @@ CREATE TABLE bundesministerien (
     id            INT(2)      NOT NULL,  -- protocol order
     name_de       VARCHAR(80) NOT NULL,  -- name in German
     abbr          VARCHAR(2)  NOT NULL,  -- official German abbreviation
-	  finance_key   VARCHAR(2)  NOT NULL,  -- finance section, 2 digits
-	  name_en       VARCHAR(80) NOT NULL,  -- name in English
+    finance_key   VARCHAR(2)  NOT NULL,  -- finance section, 2 digits
+    name_en       VARCHAR(80) NOT NULL,  -- name in English
 PRIMARY KEY (id)
 );
 
