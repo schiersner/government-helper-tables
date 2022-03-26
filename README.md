@@ -2,6 +2,11 @@
 Hilfstabellen (csv, md, sql) zur öffentlichen Verwaltung
 
 - [Alle Tabellen](https://github.com/schiersner/government-helper-tables/blob/main/tables/)
+- [Bundesländer](#bundesländer-de)
+- [Bundesministerien](#bundesministerien-de)
+  - [Bundesministerien 2017 - 2021](#bundesministerien-2017---2021)
+  - [Bundesministerien 2021 - 2025](#bundesministerien-2021---2025)
+
 
 # Bundesländer :de:
 Die deutschen Bundesländer nach dem Gemeindeverzeichnis des Statistischen Bundesamtes. (List of the 16 Federal States of Germany)
