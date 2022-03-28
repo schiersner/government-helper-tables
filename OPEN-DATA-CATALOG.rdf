@@ -11,6 +11,9 @@
   <dcat:Catalog rdf:about="https://github.com/schiersner/government-helper-tables">
     <dct:title>Hilfstabellen öffentliche Verwaltung - government helper tables</dct:title>
     <dct:description>Tabellarische Übersichten der Bundesländer und der Bundesministerien in Deutschland (CSV, MD, SQL).</dct:description>
+    <dcat:Dataset rdf:about="https://github.com/schiersner/government-helper-tables#bundesl%C3%A4nder-de">
+    <dcat:Dataset rdf:about="https://github.com/schiersner/government-helper-tables#bundesministerien-2017---2021">
+    <dcat:Dataset rdf:about="https://github.com/schiersner/government-helper-tables#bundesministerien-2021---2025">	    
     <dct:publisher>
       <foaf:Organization rdf:about="https://github.com/schiersner/">
         <foaf:name>Frank Schiersner @ GitHub</foaf:name>
